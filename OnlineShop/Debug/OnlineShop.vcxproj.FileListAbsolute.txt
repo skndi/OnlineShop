@@ -1,0 +1,2 @@
+D:\Programming\repos\OnlineShop\Debug\OnlineShop.exe
+D:\Programming\repos\OnlineShop\Debug\OnlineShop.pdb
